@@ -1,7 +1,12 @@
+* {
+	margin : none;
+	padding : none;
+}
+
 div {
 	 width : 300px;
 	 padding : 50px;
 	background color: light blue;
-	border : 15px solid blue;
+	border : solid 15px  blue;
 	margin :  20px;
 }
